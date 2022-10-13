@@ -1,0 +1,16 @@
+.vscode
+main
+a.out
+*.o
+*.d
+demo
+Rasterizer
+rasterizer
+*.user
+.vs
+x64
+app/x64
+renderer/x64
+scene/x64
+app/imgui.ini
+imgui.ini
